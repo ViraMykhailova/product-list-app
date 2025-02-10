@@ -87,7 +87,6 @@ products.forEach((product) => {
     const productElement = createProductElement(product);
     productElements.push(productElement);
     productsWrapper.appendChild(productElement);
-    console.log(productElements);
 });
 
 filtersContainer.addEventListener('change', filterProducts);
