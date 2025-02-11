@@ -1,5 +1,7 @@
 Product List App
 
+(Demo : https://viramykhailova.github.io/product-list-app/)
+
 📌 Description:
 
 This is a simple JavaScript-based product listing application that allows users to browse, search, filter, and add/remove products from the cart. The application dynamically renders product elements, provides category-based filtering, and includes a basic cart counter.
